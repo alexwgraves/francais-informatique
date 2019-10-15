@@ -1,0 +1,59 @@
+Overall
+Percent English: 0.7808486032197365
+Percent French: 0.02447707739498236
+
+All countries, Python and JavaScript
+Percent English: 0.7544684665005229
+Percent French: 0.03415646348366224
+
+All countries, Java
+Percent English: 0.8026097728962734
+Percent French: 0.016483457876708154
+
+All countries, JavaScript
+Percent English: 0.7388171398100274
+Percent French: 0.034342547281254125
+
+All countries, Python
+Percent English: 0.7808486032197365
+Percent French: 0.02447707739498236
+
+France, all programming languages
+Percent English: 0.7830728083556214
+Percent French: 0.024888481854056625
+
+Switzerland, all programming languages
+Percent English: 0.7811879971044449
+Percent French: 0.023072475380952164
+
+Belgium, all programming languages
+Percent English: 0.7759430275309035
+Percent French: 0.023562902276389814
+
+Quebec, all programming languages
+Percent English: 0.6929733392286005
+Percent French: 0.026591865679783635
+
+Senegal, all programming languages
+Percent English: 0.7945266935845671
+Percent French: 0.0462090623598026
+
+Switzerland, JavaScript
+Percent English: 0.757074028508673
+Percent French: 0.03017693927897405
+
+Belgium, JavaScript
+Percent English: 0.7051209663621121
+Percent French: 0.04018239058276016
+
+Quebec, JavaScript
+Percent English: 0.7172069825436409
+Percent French: 0.04887780548628429
+
+Quebec, Python
+Percent English: 0.7851318944844125
+Percent French: 0.04100719424460432
+
+Quebec, Python and JavaScript
+Percent English: 0.7630769230769231
+Percent French: 0.043562753036437245

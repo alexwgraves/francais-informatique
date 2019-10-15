@@ -1,0 +1,47 @@
+Overall
+Total Comments: 11982844
+
+All countries, Python and JavaScript
+Total Comments: 5420204
+
+All countries, Java
+Total Comments: 6562640
+
+All countries, JavaScript
+Total Comments: 3728116
+
+All countries, Python
+Total Comments: 1692088
+
+France, all programming languages
+Total Comments: 8571475
+
+Switzerland, all programming languages
+Total Comments: 2196470
+
+Belgium, all programming languages
+Total Comments: 1036290
+
+Quebec, all programming languages
+Total Comments: 174151
+
+Senegal, all programming languages
+Total Comments: 4458
+
+Switzerland, JavaScript
+Total Comments: 931506
+
+Belgium, JavaScript
+Total Comments: 233784
+
+Quebec, JavaScript
+Total Comments: 2005
+
+Quebec, Python
+Total Comments: 4170
+
+Quebec, Python and JavaScript
+Total Comments: 6175
+
+Quebec, Java
+Total Comments: 167976
