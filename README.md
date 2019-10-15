@@ -14,6 +14,8 @@ Mes fichiers d'analyse, trouvés dans le dossier [analysis](analysis/), sont tou
 
 Les resultats de mon analyse peuvent être trouver dans le dossier [results](results/). Dans certains cas, ces fichiers contiennent plus d'information que mon article à cause des limites d'espace.
 
+---
+
 # The linguistic dominance of English in computer science
 
 I wrote this code to complete my final project of FREN229 (French in the world) in Spring 2019. I translated the research paper, which I originally wrote in French, into English, and it is available to read [here](pdfs/The%20linguistic%20dominance%20of%20English%20in%20computer%20science.pdf). For further clarification of the paper's purpose, the English title has the subtitle: "A case study of Francophone programmers".
